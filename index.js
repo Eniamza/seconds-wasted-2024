@@ -17,5 +17,5 @@ let updateTime = function(){
 
 
 }
-
+updateTime()
 setInterval(updateTime ,1000)
